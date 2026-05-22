@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmine Santos</h1>
-<h3 align="center">🩺 Veterinary Sonographer (Dogs & Cats) & 💻 ADS Student | 🔧 Bringing Maker Culture to ❤️ HealthTech.</h3>
+<h3 align="center">🩺 Veterinary Sonographer (Dogs & Cats) & 💻 ADS Student 
+                        🔧 Bringing Maker Culture to ❤️ HealthTech.</h3>
 
  🔭 I’m currently working on [VAAV 💉 (IoT for venous access monitoring) and an AI Diagnostic Tool 👁️ (Computer Vision for urolithiasis detection in vet ultrasounds).](https://www.youtube.com/watch?v=rcUp7G52s6M)
 
