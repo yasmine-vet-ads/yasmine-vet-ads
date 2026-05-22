@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Yasmine Santos</h1>
 <h3 align="center">🩺 Veterinary Sonographer (Dogs & Cats) & 💻 ADS Student | 🔧 Bringing Maker Culture to ❤️ HealthTech.</h3>
 
-- 🔭 I’m currently working on [VAAV 💉 (IoT for venous access monitoring) and an AI Diagnostic Tool 👁️ (Computer Vision for urolithiasis detection in vet ultrasounds).](https://www.youtube.com/watch?v=rcUp7G52s6M)
+ 🔭 I’m currently working on [VAAV 💉 (IoT for venous access monitoring) and an AI Diagnostic Tool 👁️ (Computer Vision for urolithiasis detection in vet ultrasounds).](https://www.youtube.com/watch?v=rcUp7G52s6M)
 
-- 🌱 I’m currently learning **Digital Image Processing, Machine Learning, Python, C/C++, Java, and improving my English.**
+ 🌱 I’m currently learning **Digital Image Processing, Machine Learning, Python, C/C++, Java, and improving my English.**
 
-- 👯 I’m looking to collaborate on [FabLab - innovative Maker Culture projects that bridge technology and everyday solutions.](https://ifrs.edu.br/veranopolis/extensao/projetos-de-extensao/)
+ 👯 I’m looking to collaborate on [FabLab - innovative Maker Culture projects that bridge technology and everyday solutions.](https://ifrs.edu.br/veranopolis/extensao/projetos-de-extensao/)
 
-- 📁 Past projects include: [The development of an automatic bovine estrus detector (Hardware/IoT). 🐄⚙️](https://www.youtube.com/watch?v=BPdVJ6NiXcQ)
+ 📁 Past projects include: [The development of an automatic bovine estrus detector (Hardware/IoT). 🐄⚙️](https://www.youtube.com/watch?v=BPdVJ6NiXcQ)
 
-- 👨‍💻 I’m currently building my portfolio and documenting my clinical and tech projects. Stay tuned! [building...](building...)
+ 👨‍💻 I’m currently building my portfolio and documenting my clinical and tech projects. Stay tuned! [building...](building...)
 
-- 📝 I regularly write articles on my upcoming platform, where I connect healthcare with the latest tech news 🩺📰🚀. [building...](building...)
+ 📝 I regularly write articles on my upcoming platform, where I connect healthcare with the latest tech news 🩺📰🚀. [building...](building...)
 
-- 💬 Ask me about **bridging the gap between 🩺 veterinary medicine and 💡 HealthTech innovations, or how my three pets 🐕🐕🐈 (Gaya, Bruce Brian, and Legolas) help me code! 💻**
+ 💬 Ask me about **bridging the gap between 🩺 veterinary medicine and 💡 HealthTech innovations, or how my three pets 🐕🐕🐈 (Gaya, Bruce Brian, and Legolas) help me code! 💻**
 
-- 👩‍⚕️ I currently work **as a Small Animal Veterinary Sonographer (Dogs & Cats).**
+ 👩‍⚕️ I currently work **as a Small Animal Veterinary Sonographer (Dogs & Cats).**
 
-- 📄 Know about my experiences and my journey as a VetTech Innovator on my LinkedIn profile. [https://www.linkedin.com/in/yasmine-santos-594a7a140/](https://www.linkedin.com/in/yasmine-santos-594a7a140/)
+ 📄 Know about my experiences and my journey as a VetTech Innovator on my LinkedIn profile. [https://www.linkedin.com/in/yasmine-santos-594a7a140/](https://www.linkedin.com/in/yasmine-santos-594a7a140/)
 
-- ⚡ Fun fact: **My weekend plans usually involve exploring the Serra Gaúcha for great rock pubs and live shows. But let's be honest, I'm just as likely to be found rolling on the living room floor with my pets! 🤘🐕🐈**
+ ⚡ Fun fact: **My weekend plans usually involve exploring the Serra Gaúcha for great rock pubs and live shows. But let's be honest, I'm just as likely to be found rolling on the living room floor with my pets! 🤘🐕🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
