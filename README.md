@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on BeeSpace 🐝 🛰️🚀 3D biomimicry, IoT, computer vision, satellite data, and collaborative network: the intelligent ecosystem that protects biodiversity.[BeeSpace-Plataforma Taikai](https://taikai.network/br/copernicuslac-panama/hackathons/seguridad-alimentaria-2026/projects/cmpeijivu01t85dfea636letx/idea)
 
- 🔭 I’m currently working on PIIO  🩺🩹🩻 Integrated Oncology Impedance Platform.
+ 🔭 I’m currently working on PIIO  🩺🩹 Integrated Oncology Impedance Platform.
   
  🔭 I’m currently working on [VAAV 💉 (IoT for venous access monitoring)](https://www.youtube.com/watch?v=rcUp7G52s6M)
 
