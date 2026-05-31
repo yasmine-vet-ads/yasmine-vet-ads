@@ -2,7 +2,7 @@
 <h3 align="center">🩺 Veterinary Sonographer (Dogs & Cats) & 💻 ADS Student 
                         🔧 Bringing Maker Culture to ❤️ HealthTech.</h3>
 
- 🔭 I’m currently working on BeeSpace 🐝 🛰️🚀 3D biomimicry, IoT, computer vision, satellite data, and collaborative network: the intelligent ecosystem that protects biodiversity.[BeeSpace-Plataforma Taikai](https://taikai.network/br/copernicuslac-panama/hackathons/seguridad-alimentaria-2026/projects/cmpeijivu01t85dfea636letx/idea)
+ 🔭 I’m currently working on BeeSpace 🐝 🛰️🚀 IoT, computer vision, satellite data, and collaborative network: the intelligent ecosystem that protects biodiversity.[BeeSpace-Plataforma Taikai](https://taikai.network/br/copernicuslac-panama/hackathons/seguridad-alimentaria-2026/projects/cmpeijivu01t85dfea636letx/idea)
 
  🔭 I’m currently working on PIIO  🩺🩹 Integrated Oncology Impedance Platform.
   
