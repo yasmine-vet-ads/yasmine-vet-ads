@@ -32,7 +32,7 @@ I am currently building a technical portfolio focused on **web development, data
 
 ## Featured projects
 
-### Us.Vet.Imagens.Anonimizador — Veterinary Ultrasound Image Anonymizer
+### 🩺 Us.Vet.Imagens.Anonimizador — Veterinary Ultrasound Image Anonymizer
 
 Open source MVP developed to anonymize veterinary ultrasound images by removing sensitive information displayed on the image, such as patient name, tutor name, exam ID and other identifying data.
 
@@ -45,7 +45,7 @@ Repository: [Us.Vet.Imagens.Anonimizador](https://github.com/yasmine-vet-ads/Us.
 
 ---
 
-### BeeSpace — AgTech, IoT and AI for Biodiversity Monitoring
+### 🐝 BeeSpace — AgTech, IoT and AI for Biodiversity Monitoring
 
 BeeSpace is an AgTech and ClimateTech project designed to support smart beekeeping and environmental monitoring.
 
@@ -57,7 +57,7 @@ Project page: [BeeSpace on TAIKAI](https://taikai.network/br/copernicuslac-panam
 
 ---
 
-### AI Diagnostic Tool — Veterinary Ultrasound Image Analysis
+### 👁️ AI Diagnostic Tool — Veterinary Ultrasound Image Analysis
 
 Computer vision project concept focused on supporting the analysis of veterinary ultrasound images, with initial interest in urolithiasis detection.
 
@@ -67,7 +67,7 @@ The goal is to explore how digital image processing and AI can support diagnosti
 
 ---
 
-### VAAV — IoT for Venous Access Monitoring
+### 💉 VAAV — IoT for Venous Access Monitoring
 
 IoT-based project concept for monitoring venous access, aiming to improve safety, tracking and decision support in healthcare environments.
 
@@ -77,7 +77,7 @@ Project video: [VAAV on YouTube](https://www.youtube.com/watch?v=rcUp7G52s6M)
 
 ---
 
-### PIIO — Integrated Oncology Impedance Platform
+### 🧬 PIIO — Integrated Oncology Impedance Platform
 
 HealthTech concept focused on oncology monitoring and applied biomedical innovation using impedance-based data and digital health principles.
 
