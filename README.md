@@ -25,7 +25,7 @@ I am currently building a technical portfolio focused on **web development, Pyth
 - Building projects in **Python, automation, data analysis and image processing**
 - Developing solutions connected to **HealthTech, VetTech, AgTech and applied innovation**
 - Improving my skills in **Python, JavaScript, SQL, Git, GitHub, APIs and computer vision**
-- Creating technical documentation, READMEs and portfolio projects based on real problems
+- Creating technical documentation and portfolio projects based on real problems
 - Studying concepts related to **RAG, LLMs, document processing and API integration**
 - Looking for opportunities in **remote technology internships**, especially in software development, data, automation, product, HealthTech, VetTech and AgTech
 
