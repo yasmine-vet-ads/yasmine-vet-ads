@@ -25,7 +25,7 @@ I am currently building a technical portfolio focused on **web development, Pyth
 - Building projects in **Python, automation, data analysis and image processing**
 - Developing solutions connected to **HealthTech, VetTech, AgTech and applied innovation**
 - Improving my skills in **Python, JavaScript, SQL, Git, GitHub, APIs and computer vision**
-- Creating technical documentation and portfolio projects based on real problems
+- Creating technical documentation, READMEs and portfolio projects based on real problems
 - Studying concepts related to **RAG, LLMs, document processing and API integration**
 - Looking for opportunities in **remote technology internships**, especially in software development, data, automation, product, HealthTech, VetTech and AgTech
 
@@ -53,18 +53,56 @@ The project explores how technology can support the organization of clinical and
 
 ---
 
+## Other portfolio repositories
+
+### [BeeSpace](https://github.com/yasmine-vet-ads/BeeSpace) — Smart Beekeeping, Biodiversity and AgTech
+
+Project focused on intelligent biodiversity monitoring using bees as natural biosensors, connected to **IoT, satellite data, environmental indicators, computer vision and machine learning**.
+
+The proposal connects beekeeping, agriculture, environmental monitoring and data-driven decision-making, with a strong focus on **AgTech, ESG, biodiversity and applied innovation**.
+
+**Main topics:** IoT · AgTech · Biodiversity · Satellite Data · Computer Vision · Machine Learning · Environmental Data
+
+---
+
+### [Python Maker EAD](https://github.com/yasmine-vet-ads/python-maker-ead) — Python Learning Platform
+
+Online learning platform for introductory Python courses, combining thematic tracks, interactive activities, gamified quizzes and certificate generation.
+
+The project includes two learning paths:
+
+- **Python Maker** — programming logic, Python, maker culture and introductory IoT concepts.
+- **Python Start Health** — Python applied to health, veterinary medicine, clinical data and automation.
+
+**Main topics:** Python · Education · Web · Gamification · HealthTech · Automation · Learning Platform
+
+---
+
+### [Curso](https://github.com/yasmine-vet-ads/curso) — Git and Markdown Practice Repository
+
+Initial practice repository created to learn basic GitHub workflows, Markdown editing and repository organization.
+
+Although simple, this repository represents part of my learning path with version control, commits and content structuring.
+
+**Main topics:** GitHub · Markdown · Version Control · Learning Practice
+
+---
+
 ## Portfolio direction
 
-These projects are connected as part of a broader technical portfolio focused on:
+My repositories are organized around a clear technical direction:
 
 - veterinary diagnostic imaging;
 - clinical data organization;
 - document processing;
 - privacy and anonymization;
 - automation of technical workflows;
-- applied technology for HealthTech and VetTech solutions.
+- Python for applied solutions;
+- HealthTech, VetTech and AgTech innovation;
+- educational technology and technical documentation;
+- applied AI, RAG and data-driven decision support.
 
-Together, they show how my previous experience in veterinary medicine and diagnostic imaging can be transformed into practical software solutions.
+Together, these projects show how my previous experience in veterinary medicine, diagnostic imaging, research and applied innovation can be transformed into practical software solutions.
 
 ---
 
@@ -77,6 +115,7 @@ Together, they show how my previous experience in veterinary medicine and diagno
 - Technical documentation
 - Image processing
 - Applied AI
+- RAG and document-based workflows
 - HealthTech, VetTech and AgTech
 - Digital solutions for clinics, laboratories, research and agriculture
 - Maker culture, IoT, FabLab and applied innovation
@@ -99,9 +138,11 @@ Together, they show how my previous experience in veterinary medicine and diagno
 - React fundamentals
 - SQL
 - Git and GitHub
+- Python for automation, data and image processing
 - RAG concepts
 - LLMs and document-based workflows
-- Python for automation, data and image processing
+- Computer vision fundamentals
+- Technical documentation for software projects
 
 ---
 
@@ -116,7 +157,8 @@ My previous experience in veterinary medicine contributes to my transition into 
 - attention to detail;
 - ethical handling of sensitive data;
 - experience with real problems in healthcare and animal health;
-- ability to connect domain knowledge with software solutions.
+- ability to connect domain knowledge with software solutions;
+- interest in applied innovation for health, veterinary medicine and agriculture.
 
 ---
 
