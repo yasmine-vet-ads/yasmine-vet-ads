@@ -78,16 +78,6 @@ The project includes two learning paths:
 
 ---
 
-### [Curso](https://github.com/yasmine-vet-ads/curso) — Git and Markdown Practice Repository
-
-Initial practice repository created to learn basic GitHub workflows, Markdown editing and repository organization.
-
-Although simple, this repository represents part of my learning path with version control, commits and content structuring.
-
-**Main topics:** GitHub · Markdown · Version Control · Learning Practice
-
----
-
 ## Portfolio direction
 
 My repositories are organized around a clear technical direction:
