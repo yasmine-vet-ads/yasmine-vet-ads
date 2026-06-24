@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Yasmine Santos 👋</h1>
 
 <h3 align="center">
-ADS Student | Veterinary Sonographer | HealthTech, VetTech & AgTech Enthusiast
+ADS Student | Veterinary Sonographer | Python, Automation, Data & Applied AI
 </h3>
 
 <p align="center">
-Turning clinical experience, data and applied innovation into useful digital solutions.
+Turning clinical experience, diagnostic imaging and technical documentation into useful digital solutions.
 </p>
 
 ---
@@ -14,150 +14,120 @@ Turning clinical experience, data and applied innovation into useful digital sol
 
 I am a **Technology in Systems Analysis and Development student at IFRS** and a **veterinary sonographer specialized in small animal diagnostic imaging**.
 
-My work connects **veterinary medicine, health data, automation, IoT, image processing, artificial intelligence and applied innovation** to solve real-world problems in healthcare, animal health, agriculture and research.
+My work connects **veterinary medicine, clinical data, automation, image processing, documentation, artificial intelligence and applied innovation** to solve real-world problems in healthcare, animal health, agriculture and research.
 
-I am currently building a technical portfolio focused on **web development, data analysis, automation, image processing and applied AI**, with a special interest in **remote technology internship opportunities**.
+I am currently building a technical portfolio focused on **web development, Python, data analysis, automation, image processing and applied AI**, with a special interest in **remote technology internship opportunities**.
 
 ---
 
 ## Current focus
 
-- Building projects in **Python, data analysis, automation and image processing**
+- Building projects in **Python, automation, data analysis and image processing**
 - Developing solutions connected to **HealthTech, VetTech, AgTech and applied innovation**
 - Improving my skills in **Python, JavaScript, SQL, Git, GitHub, APIs and computer vision**
 - Creating technical documentation, READMEs and portfolio projects based on real problems
+- Studying concepts related to **RAG, LLMs, document processing and API integration**
 - Looking for opportunities in **remote technology internships**, especially in software development, data, automation, product, HealthTech, VetTech and AgTech
 
 ---
 
 ## Featured projects
 
-### 🩺 Us.Vet.Imagens.Anonimizador — Veterinary Ultrasound Image Anonymizer
+### [Us.Vet.Imagens.Anonimizador](https://github.com/yasmine-vet-ads/Us.Vet.Imagens.Anonimizador) — Veterinary Ultrasound Image Anonymizer
 
-Open source MVP developed to anonymize veterinary ultrasound images by removing sensitive information displayed on the image, such as patient name, tutor name, exam ID and other identifying data.
+MVP open source for anonymizing veterinary ultrasound images using **Python, Streamlit and OpenCV**.
 
-The project was created from a real need in veterinary diagnostic imaging: preparing ultrasound images more safely for study, documentation, academic projects, image databases and future computer vision applications.
+This project was created from a real need in veterinary diagnostic imaging: removing sensitive information from ultrasound images before using them in studies, presentations, teaching materials, portfolio or technical documentation.
 
-**Technologies:** Python · Google Colab · OpenCV · Pillow · NumPy · Matplotlib  
-**Topics:** VetTech · HealthTech · Image Processing · Data Privacy · Veterinary Ultrasound · Applied Innovation
-
-Repository: [Us.Vet.Imagens.Anonimizador](https://github.com/yasmine-vet-ads/Us.Vet.Imagens.Anonimizador)
+**Main topics:** Python · Streamlit · OpenCV · Image Processing · Data Privacy · Veterinary Ultrasound · VetTech
 
 ---
 
-### 🐝 BeeSpace — AgTech, IoT and AI for Biodiversity Monitoring
+### [Ia-Vet-Doc](https://github.com/yasmine-vet-ads/Ia-Vet-Doc) — Veterinary Document Assistant
 
-BeeSpace is an AgTech and ClimateTech project designed to support smart beekeeping and environmental monitoring.
+Experimental project focused on organizing, searching and structuring veterinary documents such as reports, clinical histories and technical references using **Python, applied AI concepts, RAG and document processing**.
 
-The project integrates **IoT sensors, satellite data, computer vision, machine learning and environmental indicators** to support data-driven decisions in apiculture, biodiversity protection and ESG monitoring.
+The project explores how technology can support the organization of clinical and technical information without replacing professional review.
 
-**Technologies and topics:** Python · IoT · ESP32 · MQTT · JSON · Computer Vision · YOLOv8 · Satellite Data · Machine Learning · AgTech · ClimateTech · ESG
-
-Project page: [BeeSpace on TAIKAI](https://taikai.network/br/copernicuslac-panama/hackathons/seguridad-alimentaria-2026/projects/cmpeijivu01t85dfea636letx/idea)
+**Main topics:** Python · Applied AI · RAG · LLMs · Document Processing · Clinical Data · VetTech
 
 ---
 
-### 👁️ AI Diagnostic Tool — Veterinary Ultrasound Image Analysis
+## Portfolio direction
 
-Computer vision project concept focused on supporting the analysis of veterinary ultrasound images, with initial interest in urolithiasis detection.
+These projects are connected as part of a broader technical portfolio focused on:
 
-The goal is to explore how digital image processing and AI can support diagnostic imaging workflows, image organization and future decision-support tools in veterinary medicine.
+- veterinary diagnostic imaging;
+- clinical data organization;
+- document processing;
+- privacy and anonymization;
+- automation of technical workflows;
+- applied technology for HealthTech and VetTech solutions.
 
-**Technologies and topics:** Python · Computer Vision · Digital Image Processing · Veterinary Imaging · AI · VetTech
-
----
-
-### 💉 VAAV — IoT for Venous Access Monitoring
-
-IoT-based project concept for monitoring venous access, aiming to improve safety, tracking and decision support in healthcare environments.
-
-**Technologies and topics:** IoT · HealthTech · Sensors · Monitoring · Clinical Data · Automation
-
-Project video: [VAAV on YouTube](https://www.youtube.com/watch?v=rcUp7G52s6M)
+Together, they show how my previous experience in veterinary medicine and diagnostic imaging can be transformed into practical software solutions.
 
 ---
 
-### 🧬 PIIO — Integrated Oncology Impedance Platform
+## Areas of interest
 
-HealthTech concept focused on oncology monitoring and applied biomedical innovation using impedance-based data and digital health principles.
-
-**Technologies and topics:** HealthTech · Biomedical Signals · Data Analysis · Product Design · Applied Innovation
-
----
-
-## Technical interests
-
-**Programming and Development**  
-Python · JavaScript · HTML · CSS · SQL · Git · GitHub · APIs
-
-**Data and AI**  
-Data Analysis · Machine Learning · Computer Vision · Digital Image Processing · Automation
-
-**Applied Innovation**  
-HealthTech · VetTech · AgTech · IoT · Maker Culture · Diagnostic Imaging · Research · Product Development
-
----
-
-## Background
-
-I currently work as a **small animal veterinary sonographer**, performing ultrasound exams in dogs and cats, documenting findings and supporting clinical decision-making through diagnostic imaging.
-
-My previous experience in veterinary medicine, diagnostic imaging, research, innovation, maker culture, IoT and applied projects helps me identify real problems that can be improved with technology, data organization and automation.
-
-This background allows me to connect clinical reasoning, technical documentation, data privacy and software development in projects with practical impact.
-
----
-
-## Currently learning
-
-- Python for data analysis, automation and image processing
-- JavaScript, HTML and CSS for web development
-- SQL and databases
-- Git and GitHub for version control and technical portfolio
-- Machine Learning and Computer Vision
-- Digital Image Processing
-- Technical English for technology and research
-
----
-
-## Open to collaborate on
-
-- HealthTech, VetTech and AgTech projects
-- Data analysis and dashboards
-- Automation projects
-- Computer vision applied to healthcare or veterinary imaging
-- IoT and monitoring systems
+- Web development
+- Python automation
+- Data analysis
+- APIs and backend fundamentals
+- Technical documentation
+- Image processing
+- Applied AI
+- HealthTech, VetTech and AgTech
 - Digital solutions for clinics, laboratories, research and agriculture
-- Maker Culture and FabLab initiatives
+- Maker culture, IoT, FabLab and applied innovation
 
 ---
 
 ## Languages and tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,java,c,opencv,arduino" />
 </p>
+
+---
+
+## Technologies I am studying
+
+- JavaScript / TypeScript
+- Node.js
+- APIs REST
+- React fundamentals
+- SQL
+- Git and GitHub
+- RAG concepts
+- LLMs and document-based workflows
+- Python for automation, data and image processing
+
+---
+
+## Professional background applied to technology
+
+My previous experience in veterinary medicine contributes to my transition into technology through:
+
+- technical and clinical documentation;
+- diagnostic imaging workflow;
+- data organization;
+- interpretation of structured and unstructured information;
+- attention to detail;
+- ethical handling of sensitive data;
+- experience with real problems in healthcare and animal health;
+- ability to connect domain knowledge with software solutions.
 
 ---
 
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yasmine-santos-594a7a140/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Yasmine Santos" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/yasmine-santos-594a7a140">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/yasmineosantos" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yasmineosantos" height="30" width="40" />
+  <a href="https://github.com/yasmine-vet-ads">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
